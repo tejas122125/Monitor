@@ -22,7 +22,7 @@ const Dashboard = () => {
                     <ResizableHandle withHandle />
                     <ResizablePanel className='p-1'>
                         <ResizablePanelGroup direction="horizontal">
-                            <ResizablePanel className='bg-red-400 p-2'>One</ResizablePanel>
+                            <ResizablePanel className='bg-red-400 p-2'><iframe src="http://localhost:3000/d-solo/CgCw8jKZz/go-metrics?orgId=1&refresh=5s&panelId=14" className='w-full h-full'></iframe></ResizablePanel>
                             <ResizableHandle withHandle />
                             <ResizablePanel className='bg-orange-400 p-2'>Two</ResizablePanel>
                         </ResizablePanelGroup>
@@ -41,9 +41,9 @@ const Dashboard = () => {
                     <ResizableHandle withHandle />
                     <ResizablePanel className='p-1 '>
                         <ResizablePanelGroup direction="horizontal">
-                            <ResizablePanel className='bg-green-300 p-2'>One</ResizablePanel>
+                            <ResizablePanel className='bg-green-300 p-2'><iframe src="http://localhost:3000/d-solo/CgCw8jKZz/go-metrics?orgId=1&refresh=5s&panelId=26" className='w-full h-full' ></iframe></ResizablePanel>
                             <ResizableHandle withHandle />
-                            <ResizablePanel className='bg-yellow-300 p-2'>Two</ResizablePanel>
+                            <ResizablePanel className='bg-yellow-300 p-2'><iframe src="http://localhost:3000/d-solo/CgCw8jKZz/go-metrics?orgId=1&refresh=5s&panelId=8" className='w-full h-full'></iframe></ResizablePanel>
                         </ResizablePanelGroup>
                     </ResizablePanel>
 
