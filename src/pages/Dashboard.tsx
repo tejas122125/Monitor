@@ -14,9 +14,9 @@ const Dashboard = () => {
                 <ResizablePanelGroup direction="vertical">
                     <ResizablePanel className='p-1'>
                         <ResizablePanelGroup direction="horizontal">
-                            <ResizablePanel className='bg-green-400 p-2'>One</ResizablePanel>
+                            <ResizablePanel className='bg-green-400 p-2'><iframe src="http://localhost:3000/d-solo/CgCw8jKZz/go-metrics?orgId=1&refresh=5s&panelId=22" className='w-full h-full'></iframe></ResizablePanel>
                             <ResizableHandle withHandle />
-                            <ResizablePanel className='bg-red-400 p-2'>Two</ResizablePanel>
+                            <ResizablePanel className='bg-red-400 p-2'><iframe src="http://localhost:3000/d-solo/CgCw8jKZz/go-metrics?orgId=1&refresh=5s&panelId=28"className='w-full h-full'></iframe></ResizablePanel>
                         </ResizablePanelGroup>
                     </ResizablePanel>
                     <ResizableHandle withHandle />
