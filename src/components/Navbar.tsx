@@ -13,7 +13,7 @@ const Navbar = () => {
                         <div className="ml-4 flex items-center space-x-4">
                             <a href="/" className="text-white">Home</a>
                             <a href="/about" className="text-white">About</a>
-                            <a href="#" className="text-white">Services</a>
+                            <a href="/dashboard" className="text-white">DashBoard</a>
                             <a href="#" className="text-white">Contact</a>
                         </div>
                     </div>
