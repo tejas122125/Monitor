@@ -29,7 +29,7 @@ const Dashboard = () => {
                     </ResizablePanel>
                 </ResizablePanelGroup>
             </div>
-            <div className='h-[800px] bg-blue-400 p-4'>
+            <div className='h-[800px]  p-4'>
                 <ResizablePanelGroup direction="vertical">
                     <ResizablePanel className='p-1' >
                         <ResizablePanelGroup direction="horizontal">
