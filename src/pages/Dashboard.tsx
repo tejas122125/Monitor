@@ -8,7 +8,7 @@ import {
 
 const Dashboard = () => {
     return (
-        <div className='w-screen h-screen bg-black  gap-4 p-4 overflow-y-auto'>Dashboard
+        <div className='w-screen h-screen bg-black  gap-4 p-4 overflow-y-auto'>Dashboard mnast hai
             <Link to='/'>sfreferf</Link>
             <div className='h-[800px] p-4 '>
                 <ResizablePanelGroup direction="vertical">
