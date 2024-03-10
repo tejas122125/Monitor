@@ -8,7 +8,7 @@ const Home = () => {
     <div className='w-full h-full flex flex-col bg-slate-50'>
         <Navbar/>
         <Link to='/about'>sfreferf</Link>
-        home page linvf
+        home page 
     </div>
   )
 }
